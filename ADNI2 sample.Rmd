@@ -1,0 +1,24 @@
+---
+title: "ADNI2 sample"
+author: "Nathalie Fadel"
+date: "3/22/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+```{r}
+AD_BL <- read_csv("ADNI2_AD_SC_BL_3_22_2019.csv") %>%
+  janitor::clean_names()
+
+filter(AD_BL, description == "MT1; GradWarp; N3m") %>%
+  group_by(subject) %>%
+  summarize(n()) %>%
+  count() %>%
+  knitr::kable()
+
+
+```
