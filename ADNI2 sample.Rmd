@@ -53,10 +53,24 @@ ad_sample %>%
   count(sex == "M", sex == "F") %>%
   knitr::kable()
 
+ad_sample %>%
+  group_by(sex) %>%
+  ggplot(aes(x = sex)) +
+  geom_bar(fill = "blue") +
+  theme() +
+  labs(x = "Gender", caption = "Gender distribution of subjects in Alzheimer's group")
+
 cn_sample %>%
   group_by(sex) %>%
   count(sex == "M", sex == "F") %>%
   knitr::kable()
+
+cn_sample %>%
+  group_by(sex) %>%
+  ggplot(aes(x = sex)) +
+  geom_bar(fill = "purple") +
+  theme() +
+  labs(x = "Gender", caption = "Gender distribution of subjects in cognitively normal group")
 
 ```
 
