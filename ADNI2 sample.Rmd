@@ -80,6 +80,18 @@ cn_sample %>%
   summarize(min(age), max(age))
 #56 to 89 years old for CN group
 
+ad_sample %>%
+  group_by(age) %>%
+  ggplot(aes(x = age)) +
+  geom_histogram(binwidth = 1, fill = "blue") +
+  theme(axis.text.x = element_text(angle=45, hjust=1)) +
+  labs(x = "Age", caption = "Age distribution of subjects in Alzheimer's group")
 
+cn_sample %>%
+  group_by(age) %>%
+  ggplot(aes(x = age)) +
+  geom_histogram(binwidth = 1, fill = "purple") +
+  theme(axis.text.x = element_text(angle=45, hjust=1)) +
+  labs(x = "Age", caption = "Age distribution of subjects in cognitively normal group")
 
 ```
