@@ -1,0 +1,494 @@
+Image Data ID,Subject,Group,Sex,Age,Visit,Modality,Description,Type,Acq Date,Format,Downloaded
+257176,153_S_4172,AD,M,76,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/14/11,DCM,1/31/19
+254770,153_S_4172,AD,M,76,22,MRI,MT1; GradWarp; N3m,Processed,8/17/11,NiFTI,1/31/19
+254771,153_S_4172,AD,M,76,22,MRI,MT1; GradWarp; N3m,Processed,8/17/11,NiFTI,1/31/19
+316554,137_S_4756,AD,M,84,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/18/12,DCM,
+312660,137_S_4756,AD,M,84,22,MRI,MT1; GradWarp; N3m,Processed,5/31/12,NiFTI,3/22/19
+312662,137_S_4756,AD,M,84,22,MRI,MT1; GradWarp; N3m,Processed,5/31/12,NiFTI,3/22/19
+300257,137_S_4672,AD,M,67,22,MRI,MT1; GradWarp; N3m,Processed,4/16/12,NiFTI,3/21/19
+300256,137_S_4672,AD,M,67,22,MRI,MT1; GradWarp; N3m,Processed,4/16/12,NiFTI,3/21/19
+303342,137_S_4672,AD,M,67,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,4/30/12,DCM,3/21/19
+262036,137_S_4258,AD,M,76,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/17/11,DCM,3/21/19
+261075,137_S_4258,AD,M,76,22,MRI,MT1; GradWarp; N3m,Processed,10/11/11,NiFTI,3/21/19
+261076,137_S_4258,AD,M,76,22,MRI,MT1; GradWarp; N3m,Processed,10/11/11,NiFTI,3/21/19
+260659,137_S_4211,AD,F,81,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/4/11,DCM,3/21/19
+258692,137_S_4211,AD,F,81,22,MRI,MT1; GradWarp; N3m,Processed,9/21/11,NiFTI,3/21/19
+258693,137_S_4211,AD,F,81,22,MRI,MT1; GradWarp; N3m,Processed,9/21/11,NiFTI,3/21/19
+388925,135_S_5275,AD,F,78,22,MRI,MT1; GradWarp; N3m,Processed,8/5/13,NiFTI,
+388926,135_S_5275,AD,F,78,22,MRI,MT1; GradWarp; N3m,Processed,8/5/13,NiFTI,
+391310,135_S_5275,AD,F,78,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/6/13,DCM,
+349914,135_S_5015,AD,F,78,22,MRI,MT1; GradWarp; N3m,Processed,11/13/12,NiFTI,
+349915,135_S_5015,AD,F,78,22,MRI,MT1; GradWarp; N3m,Processed,11/13/12,NiFTI,
+349205,135_S_5015,AD,F,78,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/26/12,DCM,
+337552,135_S_4954,AD,M,61,22,MRI,MT1; GradWarp; N3m,Processed,9/24/12,NiFTI,
+337553,135_S_4954,AD,M,61,22,MRI,MT1; GradWarp; N3m,Processed,9/24/12,NiFTI,
+342841,135_S_4954,AD,M,61,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/23/12,DCM,
+322957,135_S_4863,AD,M,70,22,MRI,MT1; GradWarp; N3m,Processed,8/1/12,NiFTI,
+322958,135_S_4863,AD,M,70,22,MRI,MT1; GradWarp; N3m,Processed,8/1/12,NiFTI,
+330785,135_S_4863,AD,M,70,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,8/28/12,DCM,
+306237,135_S_4676,AD,M,79,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,5/16/12,DCM,3/22/19
+300297,135_S_4676,AD,M,79,22,MRI,MT1; GradWarp; N3m,Processed,4/19/12,NiFTI,3/22/19
+300304,135_S_4676,AD,M,79,22,MRI,MT1; GradWarp; N3m,Processed,4/19/12,NiFTI,3/22/19
+305082,135_S_4657,AD,F,72,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,5/8/12,DCM,3/21/19
+297888,135_S_4657,AD,F,72,22,MRI,MT1; GradWarp; N3m,Processed,4/12/12,NiFTI,3/21/19
+297889,135_S_4657,AD,F,72,22,MRI,MT1; GradWarp; N3m,Processed,4/12/12,NiFTI,3/21/19
+370116,131_S_5138,AD,M,61,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,4/30/13,DCM,
+376955,131_S_5138,AD,M,61,22,MRI,MT1; N3m,Processed,4/2/13,NiFTI,
+376956,131_S_5138,AD,M,61,22,MRI,MT1; N3m,Processed,4/2/13,NiFTI,
+384421,130_S_5231,AD,F,74,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,8/2/13,DCM,
+414454,130_S_5231,AD,F,74,22,MRI,MT1; N3m,Processed,7/16/13,NiFTI,
+414455,130_S_5231,AD,F,74,22,MRI,MT1; N3m,Processed,7/16/13,NiFTI,
+362848,130_S_5059,AD,M,72,22,MRI,MT1; N3m,Processed,2/6/13,NiFTI,
+362849,130_S_5059,AD,M,72,22,MRI,MT1; N3m,Processed,2/6/13,NiFTI,
+365179,130_S_5059,AD,M,72,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,3/1/13,DCM,
+351548,130_S_5006,AD,F,68,22,MRI,MT1; N3m,Processed,11/14/12,NiFTI,
+354791,130_S_5006,AD,F,68,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,12/5/12,DCM,
+351549,130_S_5006,AD,F,68,22,MRI,MT1; N3m,Processed,11/14/12,NiFTI,
+356281,130_S_4997,AD,F,61,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,1/15/13,DCM,
+414602,130_S_4997,AD,F,61,22,MRI,MT1; N3m,Processed,11/19/12,NiFTI,
+414603,130_S_4997,AD,F,61,22,MRI,MT1; N3m,Processed,11/19/12,NiFTI,
+367698,130_S_4990,AD,F,75,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,1/30/13,DCM,
+349560,130_S_4990,AD,F,75,22,MRI,MT1; N3m,Processed,10/26/12,NiFTI,
+349561,130_S_4990,AD,F,75,22,MRI,MT1; N3m,Processed,10/26/12,NiFTI,
+347960,130_S_4984,AD,F,73,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/7/12,DCM,
+350508,130_S_4984,AD,F,73,22,MRI,MT1; N3m,Processed,10/17/12,NiFTI,
+350509,130_S_4984,AD,F,73,22,MRI,MT1; N3m,Processed,10/17/12,NiFTI,
+347952,130_S_4982,AD,F,58,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/30/12,DCM,
+349785,130_S_4982,AD,F,58,22,MRI,MT1; N3m,Processed,10/23/12,NiFTI,
+349786,130_S_4982,AD,F,58,22,MRI,MT1; N3m,Processed,10/23/12,NiFTI,
+350510,130_S_4971,AD,M,77,22,MRI,MT1; N3m,Processed,10/17/12,NiFTI,
+350511,130_S_4971,AD,M,77,22,MRI,MT1; N3m,Processed,10/17/12,NiFTI,
+350585,130_S_4971,AD,M,77,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/27/12,DCM,
+308045,130_S_4730,AD,F,81,22,MRI,MT1; N3m,Processed,5/23/12,NiFTI,
+308046,130_S_4730,AD,F,81,22,MRI,MT1; N3m,Processed,5/23/12,NiFTI,
+412382,130_S_4730,AD,F,81,22,MRI,HHP 6 DOF AC-PC registered MPRAGE,Processed,5/23/12,NiFTI,
+474793,130_S_4730,AD,F,81,22,MRI,HarP 135 final release 2015,Processed,5/23/12,NiFTI,
+312055,130_S_4730,AD,F,81,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/1/12,DCM,
+304090,130_S_4660,AD,F,77,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,5/11/12,DCM,3/21/19
+300302,130_S_4660,AD,F,77,22,MRI,MT1; N3m,Processed,4/18/12,NiFTI,3/21/19
+300303,130_S_4660,AD,F,77,22,MRI,MT1; N3m,Processed,4/18/12,NiFTI,3/21/19
+296408,130_S_4641,AD,F,74,22,MRI,MT1; N3m,Processed,4/4/12,NiFTI,3/21/19
+296409,130_S_4641,AD,F,74,22,MRI,MT1; N3m,Processed,4/4/12,NiFTI,3/21/19
+301234,130_S_4641,AD,F,74,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,4/20/12,DCM,3/21/19
+291894,130_S_4589,AD,F,75,22,MRI,MT1; N3m,Processed,3/19/12,NiFTI,
+298502,130_S_4589,AD,F,75,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,4/10/12,DCM,
+291895,130_S_4589,AD,F,75,22,MRI,MT1; N3m,Processed,3/19/12,NiFTI,
+382247,128_S_5123,AD,F,73,22,MRI,MT1; GradWarp; N3m,Processed,12/20/12,NiFTI,
+382248,128_S_5123,AD,F,73,22,MRI,MT1; GradWarp; N3m,Processed,12/20/12,NiFTI,
+374207,128_S_5123,AD,F,74,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,5/10/13,DCM,
+312844,128_S_4792,AD,M,80,22,MRI,MT1; GradWarp; N3m,Processed,6/18/12,NiFTI,
+319779,128_S_4792,AD,M,81,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/25/12,DCM,
+312843,128_S_4792,AD,M,80,22,MRI,MT1; GradWarp; N3m,Processed,6/18/12,NiFTI,
+321789,128_S_4774,AD,M,86,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,8/1/12,DCM,
+312864,128_S_4774,AD,M,86,22,MRI,MT1; GradWarp; N3m,Processed,6/21/12,NiFTI,
+312865,128_S_4774,AD,M,86,22,MRI,MT1; GradWarp; N3m,Processed,6/21/12,NiFTI,
+317159,128_S_4772,AD,F,79,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/17/12,DCM,
+312736,128_S_4772,AD,F,79,22,MRI,MT1; GradWarp; N3m,Processed,6/13/12,NiFTI,
+312742,128_S_4772,AD,F,79,22,MRI,MT1; GradWarp; N3m,Processed,6/13/12,NiFTI,
+366695,127_S_5095,AD,M,66,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,2/27/13,NiFTI,
+363644,127_S_5095,AD,M,66,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,3/15/13,DCM,
+414569,127_S_5095,AD,M,66,22,MRI,MT1; N3m,Processed,2/27/13,NiFTI,
+414570,127_S_5095,AD,M,66,22,MRI,MT1; N3m,Processed,2/27/13,NiFTI,
+360038,127_S_5067,AD,M,81,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,2/12/13,DCM,
+358086,127_S_5067,AD,M,81,22,MRI,MT1; N3m,Processed,2/4/13,NiFTI,
+358087,127_S_5067,AD,M,81,22,MRI,MT1; N3m,Processed,2/4/13,NiFTI,
+366694,127_S_5067,AD,M,81,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,2/4/13,NiFTI,
+356653,127_S_5058,AD,M,62,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,1/10/13,NiFTI,
+357766,127_S_5058,AD,M,62,22,MRI,MT1; N3m,Processed,1/10/13,NiFTI,
+357767,127_S_5058,AD,M,62,22,MRI,MT1; N3m,Processed,1/10/13,NiFTI,
+360030,127_S_5058,AD,M,62,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,2/8/13,DCM,
+356652,127_S_5056,AD,M,85,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,1/3/13,NiFTI,
+353885,127_S_5056,AD,M,85,22,MRI,MT1; GradWarp; N3m,Processed,1/3/13,NiFTI,
+353890,127_S_5056,AD,M,85,22,MRI,MT1; GradWarp; N3m,Processed,1/3/13,NiFTI,
+355591,127_S_5056,AD,M,85,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,1/10/13,DCM,
+349916,127_S_5028,AD,M,62,22,MRI,MT1; GradWarp; N3m,Processed,11/14/12,NiFTI,
+349918,127_S_5028,AD,M,62,22,MRI,MT1; GradWarp; N3m,Processed,11/14/12,NiFTI,
+350083,127_S_5028,AD,M,62,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,12/6/12,DCM,
+356651,127_S_5028,AD,M,62,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,11/14/12,NiFTI,
+349547,127_S_4992,AD,F,64,22,MRI,MT1; GradWarp; N3m,Processed,10/25/12,NiFTI,
+432789,127_S_4992,AD,F,64,22,MRI,MT1; GradWarp; N3m,Processed,10/25/12,NiFTI,
+356650,127_S_4992,AD,F,64,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,10/25/12,NiFTI,
+349197,127_S_4992,AD,F,64,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/15/12,DCM,
+337437,127_S_4940,AD,M,89,22,MRI,MT1; GradWarp; N3m,Processed,9/19/12,NiFTI,
+337438,127_S_4940,AD,M,89,22,MRI,MT1; GradWarp; N3m,Processed,9/19/12,NiFTI,
+341010,127_S_4940,AD,M,89,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/5/12,DCM,
+356649,127_S_4940,AD,M,89,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,9/19/12,NiFTI,
+285128,127_S_4500,AD,F,90,22,MRI,MT1; GradWarp; N3m,Processed,2/8/12,NiFTI,3/21/19
+286582,127_S_4500,AD,F,90,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,2/24/12,DCM,3/21/19
+298893,127_S_4500,AD,F,90,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,2/8/12,NiFTI,3/21/19
+285127,127_S_4500,AD,F,90,22,MRI,MT1; GradWarp; N3m,Processed,2/8/12,NiFTI,3/21/19
+334774,126_S_4686,AD,M,72,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,4/27/12,NiFTI,
+304715,126_S_4686,AD,M,72,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,5/9/12,DCM,3/22/19
+305417,126_S_4686,AD,M,72,22,MRI,MT1; GradWarp; N3m,Processed,4/27/12,NiFTI,3/22/19
+305421,126_S_4686,AD,M,72,22,MRI,MT1; GradWarp; N3m,Processed,4/27/12,NiFTI,3/22/19
+287413,126_S_4494,AD,M,71,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,2/28/12,DCM,3/22/19
+282672,126_S_4494,AD,M,71,22,MRI,MT1; GradWarp; N3m,Processed,1/31/12,NiFTI,3/21/19
+282673,126_S_4494,AD,M,71,22,MRI,MT1; GradWarp; N3m,Processed,1/31/12,NiFTI,3/21/19
+298882,126_S_4494,AD,M,71,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,1/31/12,NiFTI,3/21/19
+290073,123_S_4526,AD,M,80,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,2/14/12,DCM,3/21/19
+285119,123_S_4526,AD,M,80,22,MRI,MT1; GradWarp; N3m,Processed,2/9/12,NiFTI,3/21/19
+285120,123_S_4526,AD,M,80,22,MRI,MT1; GradWarp; N3m,Processed,2/9/12,NiFTI,3/21/19
+312655,116_S_4732,AD,M,77,22,MRI,MT1; GradWarp; N3m,Processed,5/31/12,NiFTI,3/22/19
+312656,116_S_4732,AD,M,77,22,MRI,MT1; GradWarp; N3m,Processed,5/31/12,NiFTI,3/22/19
+311669,116_S_4732,AD,M,77,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/18/12,DCM,3/22/19
+306330,116_S_4625,AD,M,64,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,4/20/12,DCM,3/21/19
+296584,116_S_4625,AD,M,64,22,MRI,MT1; GradWarp; N3m,Processed,3/29/12,NiFTI,3/21/19
+296585,116_S_4625,AD,M,64,22,MRI,MT1; GradWarp; N3m,Processed,3/29/12,NiFTI,3/21/19
+269603,116_S_4338,AD,M,81,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/28/11,DCM,3/22/19
+267741,116_S_4338,AD,M,81,22,MRI,MT1; GradWarp; N3m,Processed,11/2/11,NiFTI,3/22/19
+267742,116_S_4338,AD,M,81,22,MRI,MT1; GradWarp; N3m,Processed,11/2/11,NiFTI,3/22/19
+254813,116_S_4209,AD,F,78,22,MRI,MT1; GradWarp; N3m,Processed,8/29/11,NiFTI,3/22/19
+415901,116_S_4209,AD,F,78,22,MRI,MT1; GradWarp; N3m,Processed,8/29/11,NiFTI,
+258863,116_S_4209,AD,F,78,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/23/11,DCM,3/22/19
+257156,116_S_4195,AD,M,62,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/19/11,DCM,3/21/19
+255413,116_S_4195,AD,M,62,22,MRI,MT1; GradWarp; N3m,Processed,8/31/11,NiFTI,3/21/19
+255414,116_S_4195,AD,M,62,22,MRI,MT1; GradWarp; N3m,Processed,8/31/11,NiFTI,3/21/19
+281847,114_S_4379,AD,F,88,22,MRI,MT1; GradWarp; N3m,Processed,12/7/11,NiFTI,3/22/19
+281848,114_S_4379,AD,F,88,22,MRI,MT1; GradWarp; N3m,Processed,12/7/11,NiFTI,3/22/19
+280736,114_S_4379,AD,F,88,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,1/23/12,DCM,3/22/19
+379280,100_S_5106,AD,M,74,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/28/13,DCM,
+369381,100_S_5106,AD,M,74,22,MRI,MT1; N3m,Processed,4/22/13,NiFTI,
+369382,100_S_5106,AD,M,74,22,MRI,MT1; N3m,Processed,4/22/13,NiFTI,
+350327,099_S_4994,AD,M,85,22,MRI,MT1; GradWarp; N3m,Processed,12/3/12,NiFTI,
+355451,099_S_4994,AD,M,85,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,1/11/13,DCM,
+350332,099_S_4994,AD,M,85,22,MRI,MT1; GradWarp; N3m,Processed,12/3/12,NiFTI,
+262311,098_S_4215,AD,M,82,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/21/11,DCM,3/21/19
+298865,098_S_4215,AD,M,82,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,9/12/11,NiFTI,3/21/19
+258658,098_S_4215,AD,M,82,22,MRI,MT1; GradWarp; N3m,Processed,9/12/11,NiFTI,3/21/19
+258659,098_S_4215,AD,M,82,22,MRI,MT1; GradWarp; N3m,Processed,9/12/11,NiFTI,3/21/19
+260233,098_S_4201,AD,F,64,22,MRI,MT1; GradWarp; N3m,Processed,9/14/11,NiFTI,3/22/19
+260234,098_S_4201,AD,F,64,22,MRI,MT1; GradWarp; N3m,Processed,9/14/11,NiFTI,3/22/19
+298864,098_S_4201,AD,F,64,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,9/14/11,NiFTI,3/22/19
+262004,098_S_4201,AD,F,64,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/14/11,DCM,3/22/19
+846467,094_S_4737,AD,F,74,22,MRI,MT1; GradWarp; N3m,Processed,6/8/12,NiFTI,
+356645,094_S_4737,AD,F,74,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,6/8/12,NiFTI,
+316173,094_S_4737,AD,F,75,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/5/12,DCM,
+846434,094_S_4737,AD,F,74,22,MRI,MT1; GradWarp; N3m,Processed,6/8/12,NiFTI,
+269504,094_S_4282,AD,M,90,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/28/11,DCM,3/22/19
+263736,094_S_4282,AD,M,90,22,MRI,MT1; GradWarp; N3m,Processed,10/20/11,NiFTI,3/22/19
+298851,094_S_4282,AD,M,90,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,10/20/11,NiFTI,3/22/19
+263737,094_S_4282,AD,M,90,22,MRI,MT1; GradWarp; N3m,Processed,10/20/11,NiFTI,3/22/19
+417108,094_S_4089,AD,M,74,22,MRI,MT1; GradWarp; N3m,Processed,6/29/11,NiFTI,3/21/19
+417109,094_S_4089,AD,M,74,22,MRI,MT1; GradWarp; N3m,Processed,6/29/11,NiFTI,3/21/19
+298848,094_S_4089,AD,M,74,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,6/29/11,NiFTI,3/21/19
+247597,094_S_4089,AD,M,74,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/26/11,DCM,3/21/19
+374699,082_S_5184,AD,F,73,22,MRI,MT1; GradWarp; N3m,Processed,5/22/13,NiFTI,
+374700,082_S_5184,AD,F,73,22,MRI,MT1; GradWarp; N3m,Processed,5/22/13,NiFTI,
+375265,082_S_5184,AD,F,73,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/3/13,DCM,
+414450,082_S_5029,AD,M,80,22,MRI,MT1; GradWarp; N3m,Processed,11/14/12,NiFTI,
+414451,082_S_5029,AD,M,80,22,MRI,MT1; GradWarp; N3m,Processed,11/14/12,NiFTI,
+349177,082_S_5029,AD,M,80,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/29/12,DCM,
+383043,073_S_5090,AD,M,59,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/15/13,DCM,
+363221,073_S_5090,AD,M,59,22,MRI,MT1; GradWarp; N3m,Processed,2/7/13,NiFTI,
+363222,073_S_5090,AD,M,59,22,MRI,MT1; GradWarp; N3m,Processed,2/7/13,NiFTI,
+349543,073_S_5016,AD,F,64,22,MRI,MT1; GradWarp; N3m,Processed,10/25/12,NiFTI,
+349544,073_S_5016,AD,F,64,22,MRI,MT1; GradWarp; N3m,Processed,10/25/12,NiFTI,
+365864,073_S_5016,AD,F,65,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,4/2/13,DCM,
+322647,073_S_4853,AD,F,71,22,MRI,MT1; GradWarp; N3m,Processed,7/11/12,NiFTI,
+326559,073_S_4853,AD,F,71,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,8/21/12,DCM,
+322646,073_S_4853,AD,F,71,22,MRI,MT1; GradWarp; N3m,Processed,7/11/12,NiFTI,
+312575,070_S_4719,AD,F,79,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/20/12,DCM,3/22/19
+306756,070_S_4719,AD,F,79,22,MRI,MT1; GradWarp; N3m,Processed,5/21/12,NiFTI,3/22/19
+306757,070_S_4719,AD,F,79,22,MRI,MT1; GradWarp; N3m,Processed,5/21/12,NiFTI,3/22/19
+308130,070_S_4692,AD,M,83,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,5/22/12,DCM,3/22/19
+305605,070_S_4692,AD,M,83,22,MRI,MT1; GradWarp; N3m,Processed,5/8/12,NiFTI,3/22/19
+305606,070_S_4692,AD,M,83,22,MRI,MT1; GradWarp; N3m,Processed,5/8/12,NiFTI,3/22/19
+374660,068_S_5146,AD,F,73,22,MRI,MT1; GradWarp; N3m,Processed,5/15/13,NiFTI,
+374661,068_S_5146,AD,F,73,22,MRI,MT1; GradWarp; N3m,Processed,5/15/13,NiFTI,
+422643,068_S_5146,AD,F,73,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/14/13,DCM,
+363364,068_S_4968,AD,M,79,22,MRI,MT1; GradWarp; N3m,Processed,2/15/13,NiFTI,
+364912,068_S_4968,AD,M,79,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,3/26/13,DCM,
+363362,068_S_4968,AD,M,79,22,MRI,MT1; GradWarp; N3m,Processed,2/15/13,NiFTI,
+322529,068_S_4859,AD,M,72,22,MRI,MT1; GradWarp; N3m,Processed,8/3/12,NiFTI,
+322530,068_S_4859,AD,M,72,22,MRI,MT1; GradWarp; N3m,Processed,8/3/12,NiFTI,
+335906,068_S_4859,AD,M,72,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/14/12,DCM,
+377885,067_S_5205,AD,F,59,22,MRI,MT1; GradWarp; N3m,Processed,6/17/13,NiFTI,
+377886,067_S_5205,AD,F,59,22,MRI,MT1; GradWarp; N3m,Processed,6/17/13,NiFTI,
+379228,067_S_5205,AD,F,59,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/1/13,DCM,
+312636,067_S_4728,AD,M,82,22,MRI,MT1; GradWarp; N3m,Processed,6/1/12,NiFTI,3/22/19
+312637,067_S_4728,AD,M,82,22,MRI,MT1; GradWarp; N3m,Processed,6/1/12,NiFTI,3/22/19
+313009,067_S_4728,AD,M,82,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/20/12,DCM,
+377879,053_S_5208,AD,M,69,22,MRI,MT1; N3m,Processed,6/17/13,NiFTI,
+377880,053_S_5208,AD,M,69,22,MRI,MT1; N3m,Processed,6/17/13,NiFTI,
+384270,053_S_5208,AD,M,69,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/28/13,DCM,
+362188,053_S_5070,AD,M,71,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,2/22/13,DCM,
+357854,053_S_5070,AD,M,71,22,MRI,MT1; N3m,Processed,1/31/13,NiFTI,
+357855,053_S_5070,AD,M,71,22,MRI,MT1; N3m,Processed,1/31/13,NiFTI,
+367686,052_S_5062,AD,F,71,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,3/20/13,DCM,
+357958,052_S_5062,AD,F,71,22,MRI,MT1; N3m,Processed,1/25/13,NiFTI,
+357959,052_S_5062,AD,F,71,22,MRI,MT1; N3m,Processed,1/25/13,NiFTI,
+366693,052_S_5062,AD,F,71,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,1/25/13,NiFTI,
+394766,052_S_4959,AD,M,78,22,MRI,MT1; N3m,Processed,3/4/13,NiFTI,
+369554,052_S_4959,AD,M,78,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,3/4/13,NiFTI,
+394767,052_S_4959,AD,M,78,22,MRI,MT1; N3m,Processed,3/4/13,NiFTI,
+367866,052_S_4959,AD,M,78,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,3/20/13,DCM,
+349824,051_S_5005,AD,M,78,22,MRI,MT1; GradWarp; N3m,Processed,11/6/12,NiFTI,
+349825,051_S_5005,AD,M,78,22,MRI,MT1; GradWarp; N3m,Processed,11/6/12,NiFTI,
+349828,051_S_5005,AD,M,78,22,MRI,MT1; GradWarp; N3m,Processed,11/6/12,NiFTI,
+349157,051_S_5005,AD,M,78,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/21/12,DCM,
+351303,051_S_4980,AD,M,87,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/28/12,DCM,
+349583,051_S_4980,AD,M,87,22,MRI,MT1; GradWarp; N3m,Processed,10/29/12,NiFTI,
+349584,051_S_4980,AD,M,87,22,MRI,MT1; GradWarp; N3m,Processed,10/29/12,NiFTI,
+414490,037_S_5162,AD,M,69,22,MRI,MT1; N3m,Processed,5/3/13,NiFTI,
+414491,037_S_5162,AD,M,69,22,MRI,MT1; N3m,Processed,5/3/13,NiFTI,
+375757,037_S_5162,AD,M,69,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/6/13,DCM,
+337234,037_S_4879,AD,F,80,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/26/12,DCM,
+335394,037_S_4879,AD,F,80,22,MRI,MT1; GradWarp; N3m,Processed,9/6/12,NiFTI,
+335395,037_S_4879,AD,F,80,22,MRI,MT1; GradWarp; N3m,Processed,9/6/12,NiFTI,
+319766,037_S_4770,AD,M,76,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/20/12,DCM,
+322292,037_S_4770,AD,M,76,22,MRI,MT1; GradWarp; N3m,Processed,7/9/12,NiFTI,
+322293,037_S_4770,AD,M,76,22,MRI,MT1; GradWarp; N3m,Processed,7/9/12,NiFTI,
+297310,037_S_4001,AD,F,89,22,MRI,MT1; GradWarp; N3m,Processed,2/21/11,NiFTI,3/22/19
+297311,037_S_4001,AD,F,89,22,MRI,MT1; GradWarp; N3m,Processed,2/21/11,NiFTI,3/22/19
+242616,037_S_4001,AD,F,89,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,3/7/11,DCM,3/22/19
+378513,036_S_5210,AD,M,86,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/20/13,DCM,
+377052,036_S_5210,AD,M,86,22,MRI,MT1; GradWarp; N3m,Processed,6/12/13,NiFTI,
+377053,036_S_5210,AD,M,86,22,MRI,MT1; GradWarp; N3m,Processed,6/12/13,NiFTI,
+371899,036_S_5112,AD,F,75,22,MRI,MT1; GradWarp; N3m,Processed,5/6/13,NiFTI,
+371900,036_S_5112,AD,F,75,22,MRI,MT1; GradWarp; N3m,Processed,5/6/13,NiFTI,
+373714,036_S_5112,AD,F,75,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,5/13/13,DCM,
+359603,036_S_5063,AD,F,72,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,2/11/13,DCM,
+358062,036_S_5063,AD,F,72,22,MRI,MT1; N3m,Processed,1/16/13,NiFTI,
+358063,036_S_5063,AD,F,72,22,MRI,MT1; N3m,Processed,1/16/13,NiFTI,
+334294,036_S_4894,AD,F,61,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/4/12,DCM,
+326520,036_S_4894,AD,F,61,22,MRI,MT1; N3m,Processed,8/9/12,NiFTI,
+326521,036_S_4894,AD,F,61,22,MRI,MT1; N3m,Processed,8/9/12,NiFTI,
+322288,036_S_4820,AD,F,86,22,MRI,MT1; N3m,Processed,7/17/12,NiFTI,
+322289,036_S_4820,AD,F,86,22,MRI,MT1; N3m,Processed,7/17/12,NiFTI,
+323923,036_S_4820,AD,F,86,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,8/13/12,DCM,
+315325,035_S_4783,AD,M,83,22,MRI,MT1; GradWarp; N3m,Processed,7/2/12,NiFTI,
+338993,035_S_4783,AD,M,83,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/7/12,DCM,
+315324,035_S_4783,AD,M,83,22,MRI,MT1; GradWarp; N3m,Processed,7/2/12,NiFTI,
+364764,033_S_5087,AD,F,65,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,3/26/13,DCM,
+363278,033_S_5087,AD,F,65,22,MRI,MT1; GradWarp; N3m,Processed,2/14/13,NiFTI,
+363279,033_S_5087,AD,F,65,22,MRI,MT1; GradWarp; N3m,Processed,2/14/13,NiFTI,
+349897,033_S_5017,AD,M,84,22,MRI,MT1; GradWarp; N3m,Processed,11/8/12,NiFTI,
+349898,033_S_5017,AD,M,84,22,MRI,MT1; GradWarp; N3m,Processed,11/8/12,NiFTI,
+347897,033_S_5017,AD,M,84,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/20/12,DCM,
+347846,033_S_5013,AD,F,68,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/19/12,DCM,
+349885,033_S_5013,AD,F,68,22,MRI,MT1; GradWarp; N3m,Processed,11/7/12,NiFTI,
+349886,033_S_5013,AD,F,68,22,MRI,MT1; GradWarp; N3m,Processed,11/7/12,NiFTI,
+314561,032_S_4755,AD,M,72,22,MRI,MT1; GradWarp; N3m,Processed,7/2/12,NiFTI,
+324531,032_S_4755,AD,M,72,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/9/12,DCM,
+314562,032_S_4755,AD,M,72,22,MRI,MT1; GradWarp; N3m,Processed,7/2/12,NiFTI,
+235141,031_S_4024,AD,F,56,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,4/29/11,DCM,
+229343,031_S_4024,AD,F,56,22,MRI,MT1; N3m,Processed,4/22/11,NiFTI,
+229344,031_S_4024,AD,F,56,22,MRI,MT1; N3m,Processed,4/22/11,NiFTI,
+298839,029_S_4307,AD,M,79,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,11/17/11,NiFTI,3/22/19
+312941,029_S_4307,AD,M,79,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/19/12,DCM,
+267783,029_S_4307,AD,M,79,22,MRI,MT1; GradWarp; N3m,Processed,11/17/11,NiFTI,3/22/19
+267784,029_S_4307,AD,M,79,22,MRI,MT1; GradWarp; N3m,Processed,11/17/11,NiFTI,3/22/19
+358248,027_S_4964,AD,M,81,22,MRI,MT1; N3m,Processed,10/6/12,NiFTI,
+358249,027_S_4964,AD,M,81,22,MRI,MT1; GradWarp; N3m,Processed,10/6/12,NiFTI,
+345479,027_S_4964,AD,M,81,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/22/12,DCM,
+339185,027_S_4962,AD,F,80,22,MRI,MT1; N3m,Processed,10/5/12,NiFTI,
+339186,027_S_4962,AD,F,80,22,MRI,MT1; GradWarp; N3m,Processed,10/5/12,NiFTI,
+356638,027_S_4962,AD,F,80,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,10/5/12,NiFTI,
+344217,027_S_4962,AD,F,80,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/18/12,DCM,
+334787,027_S_4802,AD,M,83,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,7/22/12,NiFTI,
+324447,027_S_4802,AD,M,83,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/30/12,DCM,
+321466,027_S_4802,AD,M,83,22,MRI,MT1; GradWarp; N3m,Processed,7/22/12,NiFTI,
+321467,027_S_4802,AD,M,83,22,MRI,MT1; GradWarp; N3m,Processed,7/22/12,NiFTI,
+334786,027_S_4801,AD,M,78,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,7/2/12,NiFTI,
+320112,027_S_4801,AD,M,78,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/19/12,DCM,
+321464,027_S_4801,AD,M,78,22,MRI,MT1; GradWarp; N3m,Processed,7/2/12,NiFTI,
+321465,027_S_4801,AD,M,78,22,MRI,MT1; GradWarp; N3m,Processed,7/2/12,NiFTI,
+353186,024_S_5054,AD,F,74,22,MRI,MT1; GradWarp; N3m,Processed,12/20/12,NiFTI,
+353187,024_S_5054,AD,F,74,22,MRI,MT1; GradWarp; N3m,Processed,12/20/12,NiFTI,
+353857,024_S_5054,AD,F,74,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,1/4/13,DCM,
+326598,024_S_4905,AD,F,73,22,MRI,MT1; GradWarp; N3m,Processed,8/16/12,NiFTI,
+332379,024_S_4905,AD,F,73,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/7/12,DCM,
+326594,024_S_4905,AD,F,73,22,MRI,MT1; GradWarp; N3m,Processed,8/16/12,NiFTI,
+263676,024_S_4280,AD,M,80,22,MRI,MT1; GradWarp; N3m,Processed,10/18/11,NiFTI,3/22/19
+263677,024_S_4280,AD,M,80,22,MRI,MT1; GradWarp; N3m,Processed,10/18/11,NiFTI,3/22/19
+265272,024_S_4280,AD,M,80,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/28/11,DCM,3/22/19
+259156,024_S_4223,AD,M,76,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/26/11,DCM,3/22/19
+258623,024_S_4223,AD,M,76,22,MRI,MT1; GradWarp; N3m,Processed,9/12/11,NiFTI,3/22/19
+258624,024_S_4223,AD,M,76,22,MRI,MT1; GradWarp; N3m,Processed,9/12/11,NiFTI,3/22/19
+388416,023_S_5241,AD,M,88,22,MRI,MT1; GradWarp; N3m,Processed,8/9/13,NiFTI,
+396599,023_S_5241,AD,M,88,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/25/13,DCM,
+388415,023_S_5241,AD,M,88,22,MRI,MT1; GradWarp; N3m,Processed,8/9/13,NiFTI,
+374613,023_S_5120,AD,M,81,22,MRI,MT1; GradWarp; N3m,Processed,5/15/13,NiFTI,
+378509,023_S_5120,AD,M,81,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/20/13,DCM,
+374612,023_S_5120,AD,M,81,22,MRI,MT1; GradWarp; N3m,Processed,5/15/13,NiFTI,
+306217,023_S_4501,AD,M,79,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,5/17/12,DCM,3/21/19
+293685,023_S_4501,AD,M,79,22,MRI,MT1; GradWarp; N3m,Processed,3/22/12,NiFTI,3/21/19
+293686,023_S_4501,AD,M,79,22,MRI,MT1; GradWarp; N3m,Processed,3/22/12,NiFTI,3/21/19
+338919,021_S_4924,AD,M,77,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/27/12,DCM,
+356632,021_S_4924,AD,M,77,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,9/5/12,NiFTI,
+335383,021_S_4924,AD,M,77,22,MRI,MT1; GradWarp; N3m,Processed,9/5/12,NiFTI,
+335382,021_S_4924,AD,M,77,22,MRI,MT1; GradWarp; N3m,Processed,9/5/12,NiFTI,
+306699,021_S_4718,AD,M,79,22,MRI,MT1; GradWarp; N3m,Processed,5/16/12,NiFTI,3/22/19
+306700,021_S_4718,AD,M,79,22,MRI,MT1; GradWarp; N3m,Processed,5/16/12,NiFTI,3/22/19
+310736,021_S_4718,AD,M,79,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,5/29/12,DCM,3/22/19
+334763,021_S_4718,AD,M,79,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,5/16/12,NiFTI,
+347814,019_S_5019,AD,F,63,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/16/12,DCM,
+349866,019_S_5019,AD,F,63,22,MRI,MT1; N3m,Processed,11/7/12,NiFTI,
+349867,019_S_5019,AD,F,63,22,MRI,MT1; N3m,Processed,11/7/12,NiFTI,
+349868,019_S_5019,AD,F,63,22,MRI,MT1; N3m,Processed,11/7/12,NiFTI,
+348547,019_S_5012,AD,M,76,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/29/12,DCM,
+349820,019_S_5012,AD,M,76,22,MRI,MT1; N3m,Processed,11/5/12,NiFTI,
+349821,019_S_5012,AD,M,76,22,MRI,MT1; N3m,Processed,11/5/12,NiFTI,
+300946,019_S_4549,AD,M,79,22,MRI,MT1; N3m,Processed,4/23/12,NiFTI,
+387800,019_S_4549,AD,M,79,22,MRI,HHP 6 DOF AC-PC registered MPRAGE,Processed,4/23/12,NiFTI,
+300947,019_S_4549,AD,M,79,22,MRI,MT1; N3m,Processed,4/23/12,NiFTI,
+474841,019_S_4549,AD,M,79,22,MRI,HarP 135 final release 2015,Processed,4/23/12,NiFTI,
+303006,019_S_4549,AD,M,79,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,5/8/12,DCM,
+282939,019_S_4477,AD,F,82,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,1/31/12,DCM,3/21/19
+281432,019_S_4477,AD,F,82,22,MRI,MT1; N3m,Processed,1/25/12,NiFTI,3/21/19
+281433,019_S_4477,AD,F,82,22,MRI,MT1; N3m,Processed,1/25/12,NiFTI,3/21/19
+297291,019_S_4252,AD,F,87,22,MRI,MT1; N3m,Processed,9/28/11,NiFTI,3/21/19
+264745,019_S_4252,AD,F,87,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/19/11,DCM,3/21/19
+297290,019_S_4252,AD,F,87,22,MRI,MT1; N3m,Processed,9/28/11,NiFTI,3/21/19
+397718,018_S_5240,AD,F,63,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/1/13,DCM,
+384090,018_S_5240,AD,F,63,22,MRI,MT1; N3m,Processed,7/23/13,NiFTI,
+388408,018_S_5240,AD,F,63,22,MRI,MT1; N3m,Processed,7/23/13,NiFTI,
+324443,018_S_4733,AD,M,76,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,8/14/12,DCM,
+306751,018_S_4733,AD,M,75,22,MRI,MT1; N3m,Processed,5/23/12,NiFTI,
+306752,018_S_4733,AD,M,75,22,MRI,MT1; N3m,Processed,5/23/12,NiFTI,
+387799,018_S_4696,AD,F,73,22,MRI,HHP 6 DOF AC-PC registered MPRAGE,Processed,5/1/12,NiFTI,3/21/19
+305601,018_S_4696,AD,F,73,22,MRI,MT1; N3m,Processed,5/1/12,NiFTI,3/21/19
+305602,018_S_4696,AD,F,73,22,MRI,MT1; N3m,Processed,5/1/12,NiFTI,3/21/19
+474753,018_S_4696,AD,F,73,22,MRI,HarP 135 final release 2015,Processed,5/1/12,NiFTI,3/21/19
+329608,018_S_4696,AD,F,73,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,8/21/12,DCM,3/21/19
+395407,016_S_5251,AD,F,66,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/18/13,DCM,
+396992,016_S_5251,AD,F,66,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,8/9/13,NiFTI,
+388021,016_S_5251,AD,F,66,22,MRI,MT1; GradWarp; N3m,Processed,8/9/13,NiFTI,
+388022,016_S_5251,AD,F,66,22,MRI,MT1; GradWarp; N3m,Processed,8/9/13,NiFTI,
+369719,016_S_5057,AD,M,75,22,MRI,MT1; GradWarp; N3m,Processed,2/25/13,NiFTI,
+369720,016_S_5057,AD,M,75,22,MRI,MT1; GradWarp; N3m,Processed,2/25/13,NiFTI,
+365856,016_S_5057,AD,M,76,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,4/5/13,DCM,
+366687,016_S_5057,AD,M,75,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,2/25/13,NiFTI,
+366934,016_S_5032,AD,F,78,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,4/11/13,DCM,
+350731,016_S_5032,AD,F,78,22,MRI,MT1; GradWarp; N3m,Processed,11/29/12,NiFTI,
+356630,016_S_5032,AD,F,78,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,11/29/12,NiFTI,
+350745,016_S_5032,AD,F,78,22,MRI,MT1; GradWarp; N3m,Processed,11/29/12,NiFTI,
+334795,016_S_4887,AD,M,74,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,8/21/12,NiFTI,
+326634,016_S_4887,AD,M,74,22,MRI,MT1; GradWarp; N3m,Processed,8/21/12,NiFTI,
+326635,016_S_4887,AD,M,74,22,MRI,MT1; GradWarp; N3m,Processed,8/21/12,NiFTI,
+338523,016_S_4887,AD,M,74,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/1/12,DCM,
+334757,016_S_4591,AD,F,66,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,3/22/12,NiFTI,3/21/19
+293689,016_S_4591,AD,F,66,22,MRI,MT1; GradWarp; N3m,Processed,3/22/12,NiFTI,3/21/19
+296597,016_S_4591,AD,F,66,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,4/6/12,DCM,3/21/19
+293690,016_S_4591,AD,F,66,22,MRI,MT1; GradWarp; N3m,Processed,3/22/12,NiFTI,3/21/19
+294869,016_S_4583,AD,M,87,22,MRI,MT1; GradWarp; N3m,Processed,3/29/12,NiFTI,3/22/19
+294870,016_S_4583,AD,M,87,22,MRI,MT1; GradWarp; N3m,Processed,3/29/12,NiFTI,3/22/19
+312937,016_S_4583,AD,M,87,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/5/12,DCM,
+334755,016_S_4583,AD,M,87,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,3/29/12,NiFTI,
+298819,016_S_4353,AD,F,56,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,11/18/11,NiFTI,3/22/19
+282615,016_S_4353,AD,F,56,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,1/31/12,DCM,3/22/19
+270023,016_S_4353,AD,F,56,22,MRI,MT1; GradWarp; N3m,Processed,11/18/11,NiFTI,3/22/19
+270024,016_S_4353,AD,F,56,22,MRI,MT1; GradWarp; N3m,Processed,11/18/11,NiFTI,3/22/19
+298816,016_S_4009,AD,M,90,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,6/18/11,NiFTI,3/21/19
+241397,016_S_4009,AD,M,90,22,MRI,MT1; GradWarp; N3m,Processed,6/18/11,NiFTI,3/21/19
+241398,016_S_4009,AD,M,90,22,MRI,MT1; GradWarp; N3m,Processed,6/18/11,NiFTI,3/21/19
+245838,016_S_4009,AD,M,90,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/11/11,DCM,3/21/19
+295883,014_S_4615,AD,M,87,22,MRI,MT1; GradWarp; N3m,Processed,3/29/12,NiFTI,3/22/19
+295884,014_S_4615,AD,M,87,22,MRI,MT1; GradWarp; N3m,Processed,3/29/12,NiFTI,3/22/19
+301226,014_S_4615,AD,M,87,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,4/30/12,DCM,3/22/19
+241346,014_S_4039,AD,M,56,22,MRI,MT1; GradWarp; N3m,Processed,6/2/11,NiFTI,3/22/19
+241347,014_S_4039,AD,M,56,22,MRI,MT1; GradWarp; N3m,Processed,6/2/11,NiFTI,3/22/19
+246828,014_S_4039,AD,M,56,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/15/11,DCM,3/22/19
+364379,013_S_5071,AD,M,76,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,3/12/13,DCM,
+362973,013_S_5071,AD,M,76,22,MRI,MT1; N3m,Processed,2/12/13,NiFTI,
+362974,013_S_5071,AD,M,76,22,MRI,MT1; N3m,Processed,2/12/13,NiFTI,
+337435,011_S_4949,AD,F,78,22,MRI,MT1; GradWarp; N3m,Processed,9/19/12,NiFTI,
+337436,011_S_4949,AD,F,78,22,MRI,MT1; GradWarp; N3m,Processed,9/19/12,NiFTI,
+340490,011_S_4949,AD,F,78,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/10/12,DCM,
+327035,011_S_4912,AD,F,69,22,MRI,MT1; GradWarp; N3m,Processed,8/22/12,NiFTI,
+327038,011_S_4912,AD,F,69,22,MRI,MT1; GradWarp; N3m,Processed,8/22/12,NiFTI,
+336290,011_S_4912,AD,F,69,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/14/12,DCM,
+331853,011_S_4906,AD,F,76,22,MRI,MT1; GradWarp; N3m,Processed,8/13/12,NiFTI,
+331854,011_S_4906,AD,F,76,22,MRI,MT1; GradWarp; N3m,Processed,8/13/12,NiFTI,
+334278,011_S_4906,AD,F,76,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/6/12,DCM,
+317143,011_S_4845,AD,F,68,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/17/12,DCM,
+321232,011_S_4845,AD,F,68,22,MRI,MT1; GradWarp; N3m,Processed,7/12/12,NiFTI,
+321249,011_S_4845,AD,F,68,22,MRI,MT1; GradWarp; N3m,Processed,7/12/12,NiFTI,
+319750,011_S_4827,AD,M,71,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/19/12,DCM,
+315322,011_S_4827,AD,M,71,22,MRI,MT1; GradWarp; N3m,Processed,7/2/12,NiFTI,
+315323,011_S_4827,AD,M,71,22,MRI,MT1; GradWarp; N3m,Processed,7/2/12,NiFTI,
+385835,009_S_5252,AD,M,57,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,8/15/13,DCM,
+414462,009_S_5252,AD,M,57,22,MRI,MT1; GradWarp; N3m,Processed,7/18/13,NiFTI,
+414463,009_S_5252,AD,M,57,22,MRI,MT1; GradWarp; N3m,Processed,7/18/13,NiFTI,
+414460,009_S_5224,AD,M,78,22,MRI,MT1; GradWarp; N3m,Processed,7/11/13,NiFTI,
+414461,009_S_5224,AD,M,78,22,MRI,MT1; GradWarp; N3m,Processed,7/11/13,NiFTI,
+384701,009_S_5224,AD,M,78,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,8/5/13,DCM,
+358355,009_S_5037,AD,M,67,22,MRI,MT1; GradWarp; N3m,Processed,1/8/13,NiFTI,
+358356,009_S_5037,AD,M,67,22,MRI,MT1; GradWarp; N3m,Processed,1/8/13,NiFTI,
+358357,009_S_5037,AD,M,67,22,MRI,MT1; GradWarp; N3m,Processed,1/8/13,NiFTI,
+358752,009_S_5037,AD,M,68,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,2/8/13,DCM,
+353185,009_S_5027,AD,M,76,22,MRI,MT1; GradWarp; N3m,Processed,11/29/12,NiFTI,
+357345,009_S_5027,AD,M,76,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,1/11/13,DCM,
+353184,009_S_5027,AD,M,76,22,MRI,MT1; GradWarp; N3m,Processed,11/29/12,NiFTI,
+377762,007_S_5196,AD,F,73,22,MRI,MT1; GradWarp; N3m,Processed,6/3/13,NiFTI,
+377766,007_S_5196,AD,F,73,22,MRI,MT1; GradWarp; N3m,Processed,6/3/13,NiFTI,
+383217,007_S_5196,AD,F,73,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,6/3/13,NiFTI,
+378497,007_S_5196,AD,F,73,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/13/13,DCM,
+356625,007_S_4911,AD,M,75,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,8/30/12,NiFTI,
+336282,007_S_4911,AD,M,75,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/10/12,DCM,
+331714,007_S_4911,AD,M,75,22,MRI,MT1; GradWarp; N3m,Processed,8/30/12,NiFTI,
+331723,007_S_4911,AD,M,75,22,MRI,MT1; GradWarp; N3m,Processed,8/30/12,NiFTI,
+291628,007_S_4568,AD,F,71,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,3/19/12,DCM,3/21/19
+394747,007_S_4568,AD,F,71,22,MRI,MT1; GradWarp; N3m,Processed,3/1/12,NiFTI,3/21/19
+298812,007_S_4568,AD,F,71,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,3/1/12,NiFTI,3/21/19
+394748,007_S_4568,AD,F,71,22,MRI,MT1; GradWarp; N3m,Processed,3/1/12,NiFTI,3/21/19
+329598,006_S_4867,AD,M,75,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,8/30/12,DCM,
+322531,006_S_4867,AD,M,75,22,MRI,MT1; N3m,Processed,8/7/12,NiFTI,
+322532,006_S_4867,AD,M,75,22,MRI,MT1; N3m,Processed,8/7/12,NiFTI,
+295949,006_S_4546,AD,M,71,22,MRI,MT1; N3m,Processed,3/5/12,NiFTI,
+388310,006_S_4546,AD,M,71,22,MRI,MT1; N3m,Processed,3/5/12,NiFTI,
+300098,006_S_4546,AD,M,71,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,4/19/12,DCM,
+268113,006_S_4192,AD,M,83,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/14/11,DCM,3/21/19
+387788,006_S_4192,AD,M,82,22,MRI,HHP 6 DOF AC-PC registered MPRAGE,Processed,9/27/11,NiFTI,3/21/19
+260245,006_S_4192,AD,M,82,22,MRI,MT1; N3m,Processed,9/27/11,NiFTI,3/21/19
+260246,006_S_4192,AD,M,82,22,MRI,MT1; N3m,Processed,9/27/11,NiFTI,3/21/19
+474791,006_S_4192,AD,M,82,22,MRI,HarP 135 final release 2015,Processed,9/27/11,NiFTI,3/21/19
+250637,006_S_4153,AD,M,79,22,MRI,MT1; N3m,Processed,8/3/11,NiFTI,3/21/19
+256248,006_S_4153,AD,M,79,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/9/11,DCM,3/21/19
+250638,006_S_4153,AD,M,79,22,MRI,MT1; N3m,Processed,8/3/11,NiFTI,3/21/19
+369550,005_S_5119,AD,F,77,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,3/28/13,NiFTI,
+369197,005_S_5119,AD,F,77,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,4/26/13,DCM,
+369214,005_S_5119,AD,F,77,22,MRI,MT1; N3m,Processed,3/28/13,NiFTI,
+369216,005_S_5119,AD,F,77,22,MRI,MT1; N3m,Processed,3/28/13,NiFTI,
+356624,005_S_5038,AD,M,82,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,12/13/12,NiFTI,
+351980,005_S_5038,AD,M,82,22,MRI,MT1; GradWarp; N3m,Processed,12/13/12,NiFTI,
+355460,005_S_5038,AD,M,82,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,1/14/13,DCM,
+351981,005_S_5038,AD,M,82,22,MRI,MT1; GradWarp; N3m,Processed,12/13/12,NiFTI,
+347770,005_S_4910,AD,F,82,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/19/12,DCM,
+356623,005_S_4910,AD,F,82,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,9/21/12,NiFTI,
+337582,005_S_4910,AD,F,82,22,MRI,MT1; GradWarp; N3m,Processed,9/21/12,NiFTI,
+337587,005_S_4910,AD,F,82,22,MRI,MT1; GradWarp; N3m,Processed,9/21/12,NiFTI,
+337588,005_S_4910,AD,F,82,22,MRI,MT1; GradWarp; N3m,Processed,9/21/12,NiFTI,
+308605,005_S_4707,AD,M,68,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/5/12,DCM,3/22/19
+306746,005_S_4707,AD,M,68,22,MRI,MT1; GradWarp; N3m,Processed,5/15/12,NiFTI,3/22/19
+306750,005_S_4707,AD,M,68,22,MRI,MT1; GradWarp; N3m,Processed,5/15/12,NiFTI,3/22/19
+334750,005_S_4707,AD,M,68,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,5/15/12,NiFTI,
+383216,003_S_5187,AD,F,62,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,6/7/13,NiFTI,
+392428,003_S_5187,AD,F,62,22,MRI,MT1; GradWarp; N3m,Processed,6/7/13,NiFTI,
+384405,003_S_5187,AD,F,62,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/21/13,DCM,
+392429,003_S_5187,AD,F,62,22,MRI,MT1; GradWarp; N3m,Processed,6/7/13,NiFTI,
+384738,003_S_5165,AD,M,79,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/13/13,DCM,
+383215,003_S_5165,AD,M,79,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,5/16/13,NiFTI,
+392426,003_S_5165,AD,M,79,22,MRI,MT1; GradWarp; N3m,Processed,5/16/13,NiFTI,
+392427,003_S_5165,AD,M,79,22,MRI,MT1; GradWarp; N3m,Processed,5/16/13,NiFTI,
+334793,003_S_4892,AD,F,75,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,8/23/12,NiFTI,
+327046,003_S_4892,AD,F,75,22,MRI,MT1; GradWarp; N3m,Processed,8/23/12,NiFTI,
+327049,003_S_4892,AD,F,75,22,MRI,MT1; GradWarp; N3m,Processed,8/23/12,NiFTI,
+334485,003_S_4892,AD,F,75,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/11/12,DCM,
+278123,003_S_4373,AD,F,71,22,MRI,MT1; GradWarp; N3m,Processed,12/15/11,NiFTI,3/22/19
+278134,003_S_4373,AD,F,71,22,MRI,MT1; GradWarp; N3m,Processed,12/15/11,NiFTI,3/22/19
+280192,003_S_4373,AD,F,71,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,1/19/12,DCM,3/22/19
+298798,003_S_4373,AD,F,71,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,12/15/11,NiFTI,3/22/19
+259152,003_S_4152,AD,M,61,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/27/11,DCM,3/22/19
+298794,003_S_4152,AD,M,61,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,8/30/11,NiFTI,3/22/19
+255415,003_S_4152,AD,M,61,22,MRI,MT1; GradWarp; N3m,Processed,8/30/11,NiFTI,3/22/19
+255416,003_S_4152,AD,M,61,22,MRI,MT1; GradWarp; N3m,Processed,8/30/11,NiFTI,3/22/19
+250665,003_S_4136,AD,M,67,22,MRI,MT1; GradWarp; N3m,Processed,8/10/11,NiFTI,3/22/19
+387784,003_S_4136,AD,M,67,22,MRI,HHP 6 DOF AC-PC registered MPRAGE,Processed,8/10/11,NiFTI,
+250666,003_S_4136,AD,M,67,22,MRI,MT1; GradWarp; N3m,Processed,8/10/11,NiFTI,3/22/19
+257224,003_S_4136,AD,M,67,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,8/23/11,DCM,3/22/19
+474712,003_S_4136,AD,M,67,22,MRI,HarP 135 final release 2015,Processed,8/10/11,NiFTI,
+298792,003_S_4136,AD,M,67,22,MRI,"Spatially Normalized, Masked and N3 corrected T1 image",Processed,8/10/11,NiFTI,3/22/19
+349888,002_S_5018,AD,M,73,22,MRI,MT1; N3m,Processed,11/8/12,NiFTI,
+349889,002_S_5018,AD,M,73,22,MRI,MT1; N3m,Processed,11/8/12,NiFTI,
+347758,002_S_5018,AD,M,73,23,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/14/12,DCM,

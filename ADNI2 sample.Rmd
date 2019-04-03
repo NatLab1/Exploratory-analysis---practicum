@@ -2,23 +2,84 @@
 title: "ADNI2 sample"
 author: "Nathalie Fadel"
 date: "3/22/2019"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
+library(sqldf)
+```
+
+##Scan QC filter
+```{r}
+ad_bl <- read_csv("ADNI2_AD_SC_BL_3_22_2019_ALL.csv") %>%
+  janitor::clean_names()
+
+cn_bl <- read_csv("ADNI2_CN_SC_BL_3_22_2019.csv") %>%
+  janitor::clean_names()
 ```
 
 ```{r}
-AD_BL <- read_csv("ADNI2_AD_SC_BL_3_22_2019.csv") %>%
-  janitor::clean_names()
-
-filter(AD_BL, description == "MT1; GradWarp; N3m") %>%
+filter(ad_bl, description == "MT1; GradWarp; N3m") %>%
   group_by(subject) %>%
   summarize(n()) %>%
   count() %>%
   knitr::kable()
+#total subjects for AD group with correct image type
+
+missing_MRI <- sqldf("SELECT subject FROM (SELECT subject FROM cn_bl WHERE modality = 'PET') WHERE subject NOT IN (SELECT subject FROM cn_bl WHERE modality = 'MRI')")
+
+missing_MRI
+#need to find which subjects in CN group *doesnt* have a MT1 MRI
+
+```
+
+##Descriptive statistics of sample
+
+###Load sample dataset
+```{r}
+ad_sample <- read_csv("ADNI2_AD_SC_BL_3_26_2019.csv") %>%
+  janitor::clean_names()
+
+cn_sample <- read_csv("ADNI2_CN_SC_BL_3_30_2019.csv") %>%
+  janitor::clean_names()
+```
+
+###Sex breakdown tables
+```{r}
+ad_sample %>%
+  group_by(sex) %>%
+  count(sex == "M", sex == "F") %>%
+  knitr::kable()
+
+cn_sample %>%
+  group_by(sex) %>%
+  count(sex == "M", sex == "F") %>%
+  knitr::kable()
+
+```
+
+###Age distribution by disease group
+```{r}
+ad_sample %>%
+  group_by(age) %>%
+  summarize(n()) %>%
+  count()
+#32-year age span
+ad_sample %>%
+  summarize(min(age), max(age))
+#56 to 90 years old for Alzheimer's group
+
+cn_sample %>%
+  group_by(age) %>%
+  summarize(n()) %>%
+  count()
+#30-year age span
+cn_sample %>%
+  summarize(min(age), max(age))
+#56 to 89 years old for CN group
+
 
 
 ```
