@@ -2,17 +2,20 @@
 title: "ADNI2 sample"
 author: "Nathalie Fadel"
 date: "3/22/2019"
-output: github_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(sqldf)
+library(viridis)
+library(kableExtra)
+library(patchwork)
 ```
 
 ##Scan QC filter
-```{r}
+```{r,  include=FALSE}
 ad_bl <- read_csv("ADNI2_AD_SC_BL_3_22_2019_ALL.csv") %>%
   janitor::clean_names()
 
@@ -20,7 +23,7 @@ cn_bl <- read_csv("ADNI2_CN_SC_BL_3_22_2019.csv") %>%
   janitor::clean_names()
 ```
 
-```{r}
+```{r,  include=FALSE}
 filter(ad_bl, description == "MT1; GradWarp; N3m") %>%
   group_by(subject) %>%
   summarize(n()) %>%
@@ -46,30 +49,43 @@ cn_sample <- read_csv("ADNI2_CN_SC_BL_3_30_2019.csv") %>%
   janitor::clean_names()
 ```
 
-###Sex breakdown tables
+###Gender breakdown
 ```{r}
-ad_sample %>%
+gender_ad = 
+  ad_sample %>%
+  filter(modality == "PET") %>%
   group_by(sex) %>%
-  count(sex == "M", sex == "F") %>%
-  knitr::kable()
+  count() %>%
+  rename(gender = sex) %>%
+  knitr::kable() %>%
+  kable_styling("striped", full_width = F) %>%
+  add_header_above(c("Alzheimer's group" = 2))
+
+gender_cn = 
+  cn_sample %>%
+  filter(modality == "PET") %>%
+  group_by(sex) %>%
+  count() %>%
+  rename(gender = sex) %>%
+  knitr::kable() %>%
+  kable_styling("striped", full_width = F) %>%
+  add_header_above(c("Cognitively normal group" = 2))
+
+gender_ad
+gender_cn
 
 ad_sample %>%
+  filter(modality == "PET") %>%
   group_by(sex) %>%
-  ggplot(aes(x = sex)) +
-  geom_bar(fill = "blue") +
-  theme() +
+  ggplot(aes(x = sex), fill = sex) +
+  geom_bar(fill = "purple4") +
   labs(x = "Gender", caption = "Gender distribution of subjects in Alzheimer's group")
 
 cn_sample %>%
-  group_by(sex) %>%
-  count(sex == "M", sex == "F") %>%
-  knitr::kable()
-
-cn_sample %>%
+  filter(modality == "PET") %>%
   group_by(sex) %>%
   ggplot(aes(x = sex)) +
-  geom_bar(fill = "purple") +
-  theme() +
+  geom_bar(fill = "mediumpurple1") +
   labs(x = "Gender", caption = "Gender distribution of subjects in cognitively normal group")
 
 ```
@@ -77,35 +93,43 @@ cn_sample %>%
 ###Age distribution by disease group
 ```{r}
 ad_sample %>%
+  filter(modality == "PET") %>%
   group_by(age) %>%
   summarize(n()) %>%
   count()
 #32-year age span
 ad_sample %>%
+  filter(modality == "PET") %>%
   summarize(min(age), max(age))
 #56 to 90 years old for Alzheimer's group
 
 cn_sample %>%
+  filter(modality == "PET") %>%
   group_by(age) %>%
   summarize(n()) %>%
   count()
-#30-year age span
+#28-year age span
 cn_sample %>%
+  filter(modality == "PET") %>%
   summarize(min(age), max(age))
-#56 to 89 years old for CN group
+#57 to 89 years old for CN group
 
 ad_sample %>%
+  filter(modality == "PET") %>%
   group_by(age) %>%
   ggplot(aes(x = age)) +
-  geom_histogram(binwidth = 1, fill = "blue") +
-  theme(axis.text.x = element_text(angle=45, hjust=1)) +
-  labs(x = "Age", caption = "Age distribution of subjects in Alzheimer's group")
+  geom_histogram(binwidth = 1, fill = "purple4", col = "black") +
+  theme(axis.text.x = element_text(hjust=1)) +
+  labs(x = "Age", caption = "Age distribution of subjects in Alzheimer's group") +
+  scale_x_continuous(breaks = c(55, 60, 65, 70, 75, 80, 85, 90))
 
 cn_sample %>%
+  filter(modality == "PET") %>%
   group_by(age) %>%
   ggplot(aes(x = age)) +
-  geom_histogram(binwidth = 1, fill = "purple") +
-  theme(axis.text.x = element_text(angle=45, hjust=1)) +
-  labs(x = "Age", caption = "Age distribution of subjects in cognitively normal group")
+  geom_histogram(binwidth = 1, fill = "mediumpurple1", col = "black") +
+  theme(axis.text.x = element_text(hjust=1)) +
+  labs(x = "Age", caption = "Age distribution of subjects in cognitively normal group") +
+  scale_x_continuous(breaks = c(55, 60, 65, 70, 75, 80, 85, 90))
 
 ```
