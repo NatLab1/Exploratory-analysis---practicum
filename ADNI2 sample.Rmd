@@ -47,13 +47,16 @@ ad_sample <- read_csv("ADNI2_AD_SC_BL_3_26_2019.csv") %>%
 
 cn_sample <- read_csv("ADNI2_CN_SC_BL_3_30_2019.csv") %>%
   janitor::clean_names()
+
+##AMENDED DATASET AFTER BSMAC-AIDED QC:
+new_sample <- read_delim("20190405_ADNI_Scans_2_1.txt", delim = " ")
 ```
 
 ###Gender breakdown
 ```{r}
 gender_ad = 
-  ad_sample %>%
-  filter(modality == "PET") %>%
+  new_sample %>%
+  filter(group == "AD") %>%
   group_by(sex) %>%
   count() %>%
   rename(gender = sex) %>%
@@ -62,8 +65,8 @@ gender_ad =
   add_header_above(c("Alzheimer's group" = 2))
 
 gender_cn = 
-  cn_sample %>%
-  filter(modality == "PET") %>%
+  new_sample %>%
+  filter(group == "CN") %>%
   group_by(sex) %>%
   count() %>%
   rename(gender = sex) %>%
@@ -74,15 +77,15 @@ gender_cn =
 gender_ad
 gender_cn
 
-ad_sample %>%
-  filter(modality == "PET") %>%
+new_sample %>%
+  filter(group == "AD") %>%
   group_by(sex) %>%
   ggplot(aes(x = sex), fill = sex) +
   geom_bar(fill = "purple4") +
   labs(x = "Gender", caption = "Gender distribution of subjects in Alzheimer's group")
 
-cn_sample %>%
-  filter(modality == "PET") %>%
+new_sample %>%
+  filter(group == "CN") %>%
   group_by(sex) %>%
   ggplot(aes(x = sex)) +
   geom_bar(fill = "mediumpurple1") +
@@ -92,42 +95,42 @@ cn_sample %>%
 
 ###Age distribution by disease group
 ```{r}
-ad_sample %>%
-  filter(modality == "PET") %>%
+new_sample %>%
+  filter(group == "AD") %>%
   group_by(age) %>%
   summarize(n()) %>%
   count()
-#32-year age span
-ad_sample %>%
-  filter(modality == "PET") %>%
+#27-year age span
+new_sample %>%
+  filter(group == "AD") %>%
   summarize(min(age), max(age))
-#56 to 90 years old for Alzheimer's group
+#56 to 89 years old for Alzheimer's group
 
-cn_sample %>%
-  filter(modality == "PET") %>%
+new_sample %>%
+  filter(group == "CN") %>%
   group_by(age) %>%
   summarize(n()) %>%
   count()
-#28-year age span
-cn_sample %>%
-  filter(modality == "PET") %>%
+#27-year age span
+new_sample %>%
+  filter(group == "CN") %>%
   summarize(min(age), max(age))
 #57 to 89 years old for CN group
 
-ad_sample %>%
-  filter(modality == "PET") %>%
+new_sample %>%
+  filter(group == "AD") %>%
   group_by(age) %>%
   ggplot(aes(x = age)) +
-  geom_histogram(binwidth = 1, fill = "purple4", col = "black") +
+  geom_histogram(binwidth = 1, fill = "blue4", col = "black") +
   theme(axis.text.x = element_text(hjust=1)) +
   labs(x = "Age", caption = "Age distribution of subjects in Alzheimer's group") +
   scale_x_continuous(breaks = c(55, 60, 65, 70, 75, 80, 85, 90))
 
-cn_sample %>%
-  filter(modality == "PET") %>%
+new_sample %>%
+  filter(group == "CN") %>%
   group_by(age) %>%
   ggplot(aes(x = age)) +
-  geom_histogram(binwidth = 1, fill = "mediumpurple1", col = "black") +
+  geom_histogram(binwidth = 1, fill = "lightskyblue", col = "black") +
   theme(axis.text.x = element_text(hjust=1)) +
   labs(x = "Age", caption = "Age distribution of subjects in cognitively normal group") +
   scale_x_continuous(breaks = c(55, 60, 65, 70, 75, 80, 85, 90))
