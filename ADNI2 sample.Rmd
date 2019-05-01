@@ -11,7 +11,7 @@ library(tidyverse)
 library(sqldf)
 library(viridis)
 library(kableExtra)
-library(patchwork)
+
 ```
 
 ##Scan QC filter
@@ -103,7 +103,7 @@ new_sample %>%
 #27-year age span
 new_sample %>%
   filter(group == "AD") %>%
-  summarize(min(age), max(age))
+  summarize(min(age), max(age), mean(age))
 #56 to 89 years old for Alzheimer's group
 
 new_sample %>%
